@@ -1,0 +1,90 @@
+body{
+	background-color:#e5e5e5;
+
+}
+
+nav{
+	background-color:#f2e6c7;
+	color:#7c2020 !important;
+	font-family:'Major Mono Display', monospace;
+	font-size:14px;
+}
+.navbar-brand{
+	padding:0% 10% 0% 15%;
+	margin-top:1%;
+	letter-spacing:2%;
+	color: #7c2020;
+}
+.navbar-toggler{
+	padding-left:25%;
+}
+.container .sec0{
+	color:#765742; 
+	font-family:'Montserrat', sans-serif;
+	background-color:#E5E5E5;
+}
+
+.raghad{
+	word-spacing:20px;
+	letter-spacing:1px;
+	text-align:center;
+	background-color:#f2e6c7;
+	margin:0% 0%;
+	padding:10% 2.25%;
+}
+.jumbotron{
+	margin-top:-3%;
+	padding-top:0%
+	height:800px;
+	font-family:'Montserrat', sans-serif;
+	color:#7c2020;
+}
+
+.marquee{
+	background-color: #661a1a;
+	color:#f2e6c7;
+	font-size:14px;
+	padding:2% 0%;
+
+}
+.c_text{
+	text-align: center;
+}
+
+#im{
+	border:solid;
+	padding:2% 2%;
+}
+
+.b-text{
+	line-height: 30px;
+	text-align:justify;
+}
+
+.paragraph_border{
+	background-color:#f2e6c7;
+	text-align: justify;
+}
+
+#marq{
+	font-size:22px;
+	letter-spacing:6px;
+	background-color:#7c2020;
+	color: #f2e6c7;
+	padding: 2% 2%;
+}
+
+.sec5{
+	background-color:#f2e6c7;
+}
+
+.form-row{
+	padding-top:3%;
+}
+.bt{
+	background-color:#7c2020;
+	color: #f2e6c7;
+}
+.cardy{
+	background-color:#f2e6c7; 
+}
